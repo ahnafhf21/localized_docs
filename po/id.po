@@ -4027,19 +4027,22 @@ msgstr ""
 #: ../phpmyadmin/doc/config.rst:1247
 msgid ""
 "put the table name in :config:option:`$cfg['Servers'][$i]['userconfig']`"
-msgstr ""
+msgstr "masukkan nama tabel di :config:option:`$cfg['Servers'][$i]['userconfig']`"
 
 #: ../phpmyadmin/doc/config.rst:1254 ../phpmyadmin/doc/config.rst:1529
 #: ../phpmyadmin/doc/config.rst:1874 ../phpmyadmin/doc/config.rst:2348
 #: ../phpmyadmin/doc/config.rst:3064
 msgid "100"
-msgstr ""
+msgstr "100"
 
 #: ../phpmyadmin/doc/config.rst:1256
 msgid ""
 "Maximum number of rows saved in :config:option:`$cfg['Servers'][$i]"
 "['table_uiprefs']` table."
 msgstr ""
+"Jumlah angka dari baris disimpan di :config:option:`$cfg['Servers'][$i]"
+"tabel ['table_uiprefs']"
+
 
 #: ../phpmyadmin/doc/config.rst:1259
 msgid ""
@@ -4125,7 +4128,7 @@ msgstr "array()"
 
 #: ../phpmyadmin/doc/config.rst:1333
 msgid "The general format for the rules is as such:"
-msgstr ""
+msgstr "Format umum untuk aturan tersebut adalah:"
 
 #: ../phpmyadmin/doc/config.rst:1339
 msgid ""
@@ -4367,6 +4370,8 @@ msgid ""
 "The maximum number of table names to be displayed in the main panel's list "
 "(except on the Export page)."
 msgstr ""
+"Jumlah maksimum nama tabel yang akan ditampilkan dalam daftar panel utama "
+"(kecuali di halaman ekspor)."
 
 #: ../phpmyadmin/doc/config.rst:1547
 msgid ""
@@ -4376,7 +4381,7 @@ msgstr ""
 
 #: ../phpmyadmin/doc/config.rst:1553 ../phpmyadmin/doc/config.rst:2700
 msgid "1000"
-msgstr ""
+msgstr "1000"
 
 #: ../phpmyadmin/doc/config.rst:1555
 msgid ""
@@ -4411,6 +4416,8 @@ msgid ""
 "This setting is no longer available since phpMyAdmin 4.6.0. Please adjust "
 "your webserver instead."
 msgstr ""
+"Pengaturan ini tidak lagi tersedia sejak phpMyAdmin 4.6.0. Harap sesuaikan"
+"dengan server web anda."
 
 #: ../phpmyadmin/doc/config.rst:1585
 msgid ""
@@ -4580,6 +4587,7 @@ msgid ""
 "security of encrypted cookies, using longer will cause no harm."
 msgstr ""
 
+
 #: ../phpmyadmin/doc/config.rst:1740
 msgid ""
 "The configuration is called blowfish_secret for historical reasons as "
@@ -4708,7 +4716,7 @@ msgstr ""
 
 #: ../phpmyadmin/doc/config.rst:1882 ../phpmyadmin/doc/config.rst:2772
 msgid "50"
-msgstr ""
+msgstr "50"
 
 #: ../phpmyadmin/doc/config.rst:1884
 msgid ""
